@@ -27,4 +27,4 @@ Aby uruchomić program, należy z poziomu terminala uruchomić aplikację guiApp
 
 ### Uwaga
 
-W przypadku korzystania z systemu Windows, program może mieć problem z inicjalnym pobraniem modelu sztucznej inteligencji (różnice w slash'ach używanych przy definiowaniu ścieżki w systemach Windows "\" i UNIX "/"). W takim wypadku, jako obejście, można pobrać model pod adresem [nkjp_base_sq](https://drive.google.com/drive/folders/1m57zUdj0sqTlaSCwLLAnUHQpdXN6Umxq?usp=sharing).
+W przypadku korzystania z systemu Windows, program może mieć problem z inicjalnym pobraniem modelu sztucznej inteligencji (różnice w slash'ach używanych przy definiowaniu ścieżki w systemach Windows "\" i UNIX "/"). W takim wypadku, jako obejście, można pobrać model pod adresem [nkjp_base_sq](https://drive.google.com/drive/folders/1m57zUdj0sqTlaSCwLLAnUHQpdXN6Umxq?usp=sharing) i umieścić go w katalogu z programem.
