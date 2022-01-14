@@ -4,7 +4,7 @@
 
 W pierwszym kroku należy zainstalować oprogramowanie tesseract. Instalator znajduje się w katalogu "need to be installed and added to the PATH". Po zainstalowaniu oprogramowania, należy również dodać program do domyślnej ścieżki, w taki sposób, żeby mógł być on wywoływany w terminalu, niezależnie od katalogu w którym znajduje się użytkownik. 
 
-Instrukcja dla użytkowników korzystających z Windows'a 10. https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/
+Instrukcja dla użytkowników korzystających z Windows'a 10. https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/ \
 W przypadku systemów Linux wystarczy stworzyć link do programu w katalogu /usr/bin/
 
 ## 2. Instalacja modułów do języka python
